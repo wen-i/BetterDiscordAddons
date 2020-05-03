@@ -1042,8 +1042,7 @@ body:before {
 #app-mount .embedFull-2tM8-- {								/* embed				wrapper								*/
 	background-color: rgba(var(--vtransparencycolor), 0.3);
 	border-left-color: rgb(var(--fontwhite4));
-}
-#app-mount .embedAuthorName-3mnTWj,							/* embed				author								*/
+}							*/
 #app-mount .embedFieldName-NFrena,							/* embed				fieldname							*/
 #app-mount .embedTitle-3OXDkz {								/* embed				title								*/
 	color: rgb(var(--fontwhite1)) !important;
